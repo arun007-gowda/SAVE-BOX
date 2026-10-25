@@ -1,0 +1,7 @@
+{
+  "name": "SAVE Box — Smart Automated Vaccination Enclosure Dashboard",
+  "description": "Industrial IoT & medical cold-chain dashboard for ESP32-powered SAVE Box. Features live temperature monitoring, Peltier module control, fan speed diagnostics, 3D digital twin, alert management, and hardware API key generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
